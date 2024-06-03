@@ -24,4 +24,8 @@ This directory contains basic shell scripts that cover fundamental concepts in s
 
 
 
+<<<<<<< HEAD
 <img src="/Users/shivakumarbiru/Desktop/Aws_devops/shell-scripting-projects/docs/basic command output.png">
+=======
+<img src="[/Users/shivakumarbiru/Desktop/Devopss/Shell-scripting/docs/basic_commands.png](https://github.com/shiva-kumar-biru/shell-scripting-projects/blob/main/docs/basic%20command%20output.png)">
+>>>>>>> 35ea58a80ee72f7cebc565d688043b5ae159c4e7
