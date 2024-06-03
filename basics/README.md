@@ -24,4 +24,4 @@ This directory contains basic shell scripts that cover fundamental concepts in s
 
 
 
-<img src="/Users/shivakumarbiru/Desktop/Devopss/Shell-scripting/docs/basic_commands.png">
+<img src="[/Users/shivakumarbiru/Desktop/Devopss/Shell-scripting/docs/basic_commands.png](https://github.com/shiva-kumar-biru/shell-scripting-projects/blob/main/docs/basic%20command%20output.png)">
